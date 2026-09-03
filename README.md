@@ -1,2 +1,3 @@
-# cleo-command-data
-Public sanitized snapshots for the Cleo RS-SDK campaign observer
+# Cleo Command Data
+
+Sanitized public snapshots for the Cleo Command Center. No game or infrastructure credentials are stored here.

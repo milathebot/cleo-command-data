@@ -1,0 +1,4435 @@
+{
+  "meta": {
+    "operative": "Cleo",
+    "campaign": "The Late Arrival",
+    "clientUrl": "https://raw.githubusercontent.com/milathebot/cleo-command-data/main/live.png",
+    "provisionerClientUrl": "https://raw.githubusercontent.com/milathebot/cleo-command-data/main/provisioner-live.png",
+    "extractorClientUrl": "https://raw.githubusercontent.com/milathebot/cleo-command-data/main/extractor-live.png",
+    "updatedAt": "2026-09-06T03:59:38.189Z",
+    "cycle": 580722,
+    "publishedAt": "2026-09-06T03:59:42.782Z"
+  },
+  "status": {
+    "mode": "ACTIVE",
+    "location": "Grid 2772, 9569",
+    "world": "Public demo",
+    "health": 57,
+    "maxHealth": 68,
+    "runEnergy": 100,
+    "bankValue": 4049,
+    "uptime": "70:12:42",
+    "objective": "Grow an autonomous Cleo-led specialist faction: every member improves its own profession, produces increasingly valuable goods, and contributes capability, supplies, equipment, or treasury value",
+    "nextAction": "Refresh coordination first. If no exact active Cleo operation exists, run another bounded, policy-scouted Edgeville yew capacity batch with the equipped Steel axe, then verify XP, logs, lifeId, Attack freeze, bank, and the Woodcutting-99 campaign artifact."
+  },
+  "skills": [
+    {
+      "name": "Thieving",
+      "level": 99,
+      "xp": 3859210,
+      "delta": 3859210
+    },
+    {
+      "name": "Woodcutting",
+      "level": 99,
+      "xp": 2312812,
+      "delta": 2312812
+    },
+    {
+      "name": "Fletching",
+      "level": 99,
+      "xp": 999025,
+      "delta": 999025
+    },
+    {
+      "name": "Defence",
+      "level": 76,
+      "xp": 213750,
+      "delta": 213750
+    },
+    {
+      "name": "Hitpoints",
+      "level": 68,
+      "xp": 117152,
+      "delta": 116172
+    },
+    {
+      "name": "Agility",
+      "level": 58,
+      "xp": 60137,
+      "delta": 60137
+    }
+  ],
+  "xpHistory": [
+    {
+      "time": "08:47 PM",
+      "total": 7926122,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:48 PM",
+      "total": 7926122,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:48 PM",
+      "total": 7926122,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:49 PM",
+      "total": 7926122,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:49 PM",
+      "total": 7926472,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:50 PM",
+      "total": 7926472,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:50 PM",
+      "total": 7928222,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:51 PM",
+      "total": 7929622,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:51 PM",
+      "total": 7931372,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:52 PM",
+      "total": 7931972,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:52 PM",
+      "total": 7933672,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:53 PM",
+      "total": 7935022,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:53 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:54 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:54 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:55 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:55 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:56 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:56 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:57 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:57 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:58 PM",
+      "total": 7936772,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:58 PM",
+      "total": 7937122,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    },
+    {
+      "time": "08:59 PM",
+      "total": 7937122,
+      "attack": 0,
+      "strength": 0,
+      "woodcutting": 0
+    }
+  ],
+  "roster": [
+    {
+      "name": "Cleo",
+      "role": "Faction leader and focused maxing vanguard",
+      "level": 1079,
+      "status": "deployed",
+      "location": "Grid 2772, 9569",
+      "task": "Refresh coordination first. If no exact active Cleo operation exists, run another bounded, policy-scouted Edgeville yew capacity batch with the equipped Steel axe, then verify XP, logs, lifeId, Attack freeze, bank, and the Woodcutting-99 campaign artifact.",
+      "brief": {
+        "objective": "Max Cleo efficiently under the current durable Woodcutting-to-99 skill lock while preserving faction custody, stockpile-first specialist campaigns, the Attack freeze, and the questing ban.",
+        "currentAction": "Refresh coordination first. If no exact active Cleo operation exists, run another bounded, policy-scouted Edgeville yew capacity batch with the equipped Steel axe, then verify XP, logs, lifeId, Attack freeze, bank, and the Woodcutting-99 campaign artifact.",
+        "reason": "Honor progression policy v3: keep Woodcutting as Cleo's active locked skill until authoritative level 99 or explicit Noot change. Continue the proven Edgeville yew method in bounded verified capacity batches, banking every useful log and c…",
+        "progress": "The turn began under progression policy v2 and completed a verified exact one-sapphire Crafting 36 finish. A second sapphire stockpile attempt encountered zero shop stock and safely recovered; its private sale realized 175 coins and was no…",
+        "blockers": [
+          "Edgeville yew actions occasionally time out; the latest batch still had eight verified chops and persistent XP, so the method remains reasonable under policy v3.",
+          "Earth runes remain below Cleo's six-rune floor and are blocked on an exact verified essence handoff.",
+          "CleoMiner still lacks a Rune pickaxe and an authoritative safe adamant mining/smelting route."
+        ],
+        "nextAction": "Refresh coordination first. If no exact active Cleo operation exists, run another bounded, policy-scouted Edgeville yew capacity batch with the equipped Steel axe, then verify XP, logs, lifeId, Attack freeze, bank, and the Woodcutting-99 c…",
+        "updatedAt": "2026-09-05T05:17:04Z"
+      }
+    },
+    {
+      "name": "CleoSupply",
+      "role": "Faction Runecrafter, Runesmith, and Reserve Custodian",
+      "level": 659,
+      "status": "active-varrock-aubury-10000-essence-stockpile",
+      "location": "Grid 3060, 3254",
+      "task": "Fletching stock milestone complete · selecting next assignment",
+      "brief": {
+        "objective": "Build 30 Yew longbow blanks, preserve three faction kits, and publish only verified surplus for treasury liquidation",
+        "currentAction": "Fletching stock milestone complete · selecting next assignment",
+        "reason": "The previous stock milestone is complete; she is holding custody while the next outfitting assignment is selected.",
+        "progress": "Faction Fletcher stock target complete",
+        "blockers": [
+          "bowstrings-and-ammunition × 3"
+        ],
+        "nextAction": "Accept the next ranged-outfitting milestone",
+        "updatedAt": "2026-09-05T03:24:26.549Z"
+      }
+    },
+    {
+      "name": "CleoMiner",
+      "role": "Blacksmith and Quartermaster",
+      "level": 237,
+      "status": "smithing-first-steel-milestone-campaign",
+      "location": "Grid 3241, 3165",
+      "task": "Stockpiling Adamantite ore · 18/36 banked",
+      "brief": {
+        "objective": "Upgrade faction axes and acquired pickaxes by tier, then batch Smithing for value; at 99 reserve three Rune scimitar loadouts before repeatable Rune platebodies",
+        "currentAction": "Stockpiling Adamantite ore · 18/36 banked",
+        "reason": "Stockpile exact inputs, process the complete batch, then verify every finished-set handoff.",
+        "progress": "verified safe swamp Adamant stockpile trip banked 27",
+        "blockers": [
+          "cooked-food × 8"
+        ],
+        "nextAction": "Close exact ore deficits: 18 primary ore / 0 coal",
+        "updatedAt": "2026-09-06T03:44:50.239Z"
+      }
+    }
+  ],
+  "events": [
+    {
+      "time": "08:53 PM",
+      "kind": "gain",
+      "title": "Agility 58",
+      "detail": "Advanced from level 57; total level 1079."
+    },
+    {
+      "time": "08:51 PM",
+      "kind": "gain",
+      "title": "Agility 57",
+      "detail": "Advanced from level 56; total level 1078."
+    },
+    {
+      "time": "08:50 PM",
+      "kind": "gain",
+      "title": "Agility 56",
+      "detail": "Advanced from level 55; total level 1077."
+    },
+    {
+      "time": "07:56 PM",
+      "kind": "gain",
+      "title": "Agility 55",
+      "detail": "Advanced from level 54; total level 1076."
+    },
+    {
+      "time": "07:54 PM",
+      "kind": "gain",
+      "title": "Agility 54",
+      "detail": "Advanced from level 53; total level 1075."
+    },
+    {
+      "time": "07:52 PM",
+      "kind": "gain",
+      "title": "Agility 53",
+      "detail": "Advanced from level 52; total level 1074."
+    },
+    {
+      "time": "07:48 PM",
+      "kind": "gain",
+      "title": "Agility 52",
+      "detail": "Advanced from level 51; total level 1073."
+    }
+  ],
+  "logs": [
+    {
+      "time": "20:59:38",
+      "level": "OK",
+      "message": "state heartbeat · 8ms old"
+    },
+    {
+      "time": "20:59:35",
+      "level": "CLIENT",
+      "message": "field frame · connected · no host"
+    },
+    {
+      "time": "20:59:42",
+      "level": "INFO",
+      "message": "supervisor pid 40068 · 12 restarts"
+    },
+    {
+      "time": "03:59:42",
+      "level": "CLIENT",
+      "message": "    at async CdpFrame.goto (file:///home/wiffl/projects/cleo-rs-campaign/rs-sdk/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/Frame.js:151:25)"
+    },
+    {
+      "time": "03:59:42",
+      "level": "CLIENT",
+      "message": "    at async CdpPage.goto (file:///home/wiffl/projects/cleo-rs-campaign/rs-sdk/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:576:20)"
+    },
+    {
+      "time": "03:59:42",
+      "level": "CLIENT",
+      "message": "    at async file:///home/wiffl/projects/cleo-rs-campaign/rs-sdk/campaign/client-daemon.mjs:47:1"
+    },
+    {
+      "time": "03:59:42",
+      "level": "CLIENT",
+      "message": "Node.js v22.22.3"
+    }
+  ],
+  "journal": [
+    {
+      "time": "09:55 AM",
+      "decision": "Honor progression policy v3: keep Woodcutting as Cleo's active locked skill until authoritative level 99 or explicit Noot change. Continue the proven Edgeville yew method in bounded verified capacity batches, banking every useful log and changing location/tool rather than skill on contention or method failure. Service any exact active Cleo handoff first. Keep earth-runes as the single shared faction resource priority, but do not interrupt the active Woodcutting lock or consume CleoSupply's private 10000-essence stockpile without an exact accepted handoff. Combat and Prayer are not part of the linear skill-to-99 queue; they require a separate monster-and-loot progression doctrine.",
+      "rationale": "The turn began under progression policy v2 and completed a verified exact one-sapphire Crafting 36 finish. A second sapphire stockpile attempt encountered zero shop stock and safely recovered; its private sale realized 175 coins and was not counted as quartermaster revenue. Mid-turn, cleo-progression-policy.json durably changed to v3, locking Woodcutting until 99 and explicitly approving a permanent Steel axe handoff from CleoSupply. The first dedicated handoff ticket failed without transfer; the non-duplicated replacement ticket cleo-steel-axe-002 completed with exact two-sided trade evidence. Two verified Edgeville yew batches then raised Woodcutting from 65 to 74 and banked 19 additional Yew logs. Cleo ended alive, full HP, inventory empty, bank open at Edgeville, with the Steel axe equipped and Attack unchanged.",
+      "outcome": "100% confidence · Refresh coordination first. If no exact active Cleo operation exists, run another bounded, policy-scouted Edgeville yew capacity batch with the equipped Steel axe, then verify XP, logs, lifeId, Attack freeze, bank, and the Woodcutting-99 campaign artifact."
+    }
+  ],
+  "map": {
+    "region": "GRID 2772, 9569 / 2772, 9569",
+    "position": {
+      "x": 2772,
+      "z": 9569
+    },
+    "waypoints": [
+      {
+        "label": "Cleo",
+        "x": 50,
+        "y": 50,
+        "kind": "player"
+      }
+    ]
+  },
+  "watchdog": {
+    "state": "nominal",
+    "lastHeartbeat": "2026-09-06T03:59:38.189Z",
+    "latencyMs": 8,
+    "restarts": 12,
+    "sentinelPresent": false
+  },
+  "stream": {
+    "status": "streaming",
+    "provider": "vdo-ninja-p2p",
+    "fps": 5,
+    "viewers": 28,
+    "lastFrameAt": "2026-09-06T03:59:41.895Z"
+  },
+  "provisionerStream": {
+    "status": "streaming",
+    "provider": "vdo-ninja-p2p",
+    "fps": 5,
+    "viewers": 26,
+    "lastFrameAt": "2026-09-06T03:59:41.545Z"
+  },
+  "extractorStream": {
+    "status": "streaming",
+    "provider": "vdo-ninja-p2p",
+    "fps": 5,
+    "viewers": 22,
+    "lastFrameAt": "2026-09-06T03:59:42.449Z"
+  },
+  "resources": {
+    "totalQuantity": 28882,
+    "uniqueItems": 82,
+    "items": [
+      {
+        "id": 995,
+        "name": "Coins",
+        "count": 25946,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "inventory",
+            "count": 4049
+          },
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 45
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 432
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 21420
+          }
+        ]
+      },
+      {
+        "id": 453,
+        "name": "Coal",
+        "count": 528,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 528
+          }
+        ]
+      },
+      {
+        "id": 440,
+        "name": "Iron ore",
+        "count": 442,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 442
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Oak shortbow",
+        "count": 366,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 366
+          }
+        ]
+      },
+      {
+        "id": 383,
+        "name": "Raw shark",
+        "count": 256,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 256
+          }
+        ]
+      },
+      {
+        "id": 385,
+        "name": "Shark",
+        "count": 248,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 4
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 244
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Arrow shaft",
+        "count": 205,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 175
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 30
+          }
+        ]
+      },
+      {
+        "id": 315,
+        "name": "Shrimps",
+        "count": 157,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 13
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 144
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Headless arrow",
+        "count": 110,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 110
+          }
+        ]
+      },
+      {
+        "id": 319,
+        "name": "Anchovies",
+        "count": 90,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 4
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 86
+          }
+        ]
+      },
+      {
+        "id": 556,
+        "name": "Air rune",
+        "count": 56,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 6
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 25
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "id": 882,
+        "name": "Bronze arrow",
+        "count": 52,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 2
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 25
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "name": "Yew longbow",
+        "count": 43,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 43
+          }
+        ]
+      },
+      {
+        "id": 387,
+        "name": "Burnt shark",
+        "count": 38,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 38
+          }
+        ]
+      },
+      {
+        "id": 558,
+        "name": "Mind rune",
+        "count": 30,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 15
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "id": 1436,
+        "name": "Rune essence",
+        "count": 27,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Shortbow",
+        "count": 22,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "id": 373,
+        "name": "Swordfish",
+        "count": 22,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "Cleo",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 20
+          }
+        ]
+      },
+      {
+        "id": 361,
+        "name": "Tuna",
+        "count": 20,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 20
+          }
+        ]
+      },
+      {
+        "id": 449,
+        "name": "Adamantite ore",
+        "count": 18,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 18
+          }
+        ]
+      },
+      {
+        "id": 555,
+        "name": "Water rune",
+        "count": 18,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 6
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 6
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "id": 2351,
+        "name": "Iron bar",
+        "count": 15,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "id": 359,
+        "name": "Raw tuna",
+        "count": 15,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "id": 557,
+        "name": "Earth rune",
+        "count": 12,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 4
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 4
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "id": 1203,
+        "name": "Iron dagger",
+        "count": 10,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": 559,
+        "name": "Body rune",
+        "count": 6,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 2
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 2
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 436,
+        "name": "Copper ore",
+        "count": 5,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": 1623,
+        "name": "Uncut sapphire",
+        "count": 5,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": 1173,
+        "name": "Bronze sq shield",
+        "count": 4,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "id": 1159,
+        "name": "Mithril full helm",
+        "count": 4,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "id": 1734,
+        "name": "Thread",
+        "count": 4,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "id": 438,
+        "name": "Tin ore",
+        "count": 4,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "id": 1357,
+        "name": "Adamant axe",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": 1271,
+        "name": "Adamant pickaxe",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1759,
+        "name": "Ball of wool",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": 1351,
+        "name": "Bronze axe",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1265,
+        "name": "Bronze pickaxe",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1277,
+        "name": "Bronze sword",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1925,
+        "name": "Bucket",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 367,
+        "name": "Burnt fish",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": 375,
+        "name": "Burnt swordfish",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": 2347,
+        "name": "Hammer",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1175,
+        "name": "Iron sq shield",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1931,
+        "name": "Pot",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 841,
+        "name": "Shortbow",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 303,
+        "name": "Small fishing net",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1157,
+        "name": "Steel full helm",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1281,
+        "name": "Steel sword",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 590,
+        "name": "Tinderbox",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1716,
+        "name": "Unblessed symbol",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": 1171,
+        "name": "Wooden shield",
+        "count": 3,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1345,
+        "name": "Adamnt warhammer",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1438,
+        "name": "Air talisman",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "inventory",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1205,
+        "name": "Bronze dagger",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 311,
+        "name": "Harpoon",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1153,
+        "name": "Iron full helm",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1279,
+        "name": "Iron sword",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 946,
+        "name": "Knife",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 379,
+        "name": "Lobster",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "inventory",
+            "count": 1
+          },
+          {
+            "bot": "Cleo",
+            "container": "inventory",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 2359,
+        "name": "Mithril bar",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1285,
+        "name": "Mithril sword",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1607,
+        "name": "Sapphire",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1119,
+        "name": "Steel platebody",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1069,
+        "name": "Steel platelegs",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1177,
+        "name": "Steel sq shield",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          },
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1621,
+        "name": "Uncut emerald",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 1619,
+        "name": "Uncut ruby",
+        "count": 2,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": 2996,
+        "name": "Agility arena ticket",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "inventory",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1755,
+        "name": "Chisel",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1605,
+        "name": "Emerald",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 786,
+        "name": "Hazelmere's scroll",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1059,
+        "name": "Leather gloves",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 251,
+        "name": "Marrentill",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1121,
+        "name": "Mithril platebody",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1071,
+        "name": "Mithril platelegs",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1181,
+        "name": "Mithril sq shield",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1733,
+        "name": "Needle",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1942,
+        "name": "Potato",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1353,
+        "name": "Steel axe",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "CleoSupply",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 2353,
+        "name": "Steel bar",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1617,
+        "name": "Uncut diamond",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "CleoMiner",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": 1515,
+        "name": "Yew logs",
+        "count": 1,
+        "sources": [
+          {
+            "bot": "Cleo",
+            "container": "bank",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "bots": [
+      {
+        "name": "Cleo",
+        "capturedAt": "2026-09-06T03:59:38.189Z",
+        "inventoryCapturedAt": "2026-09-06T03:59:38.189Z",
+        "bankCapturedAt": "2026-09-05T03:57:04.456Z",
+        "inventory": [
+          {
+            "id": 995,
+            "name": "Coins",
+            "count": 4049
+          },
+          {
+            "id": 2996,
+            "name": "Agility arena ticket",
+            "count": 1
+          },
+          {
+            "id": 379,
+            "name": "Lobster",
+            "count": 1
+          },
+          {
+            "id": 373,
+            "name": "Swordfish",
+            "count": 1
+          },
+          {
+            "id": 373,
+            "name": "Swordfish",
+            "count": 1
+          },
+          {
+            "id": 379,
+            "name": "Lobster",
+            "count": 1
+          }
+        ],
+        "bank": [
+          {
+            "id": 52,
+            "name": "Arrow shaft",
+            "count": 175
+          },
+          {
+            "id": 1925,
+            "name": "Bucket",
+            "count": 1
+          },
+          {
+            "id": 1931,
+            "name": "Pot",
+            "count": 1
+          },
+          {
+            "id": 559,
+            "name": "Body rune",
+            "count": 2
+          },
+          {
+            "id": 555,
+            "name": "Water rune",
+            "count": 6
+          },
+          {
+            "id": 557,
+            "name": "Earth rune",
+            "count": 4
+          },
+          {
+            "id": 1733,
+            "name": "Needle",
+            "count": 1
+          },
+          {
+            "id": 1734,
+            "name": "Thread",
+            "count": 4
+          },
+          {
+            "id": 1059,
+            "name": "Leather gloves",
+            "count": 1
+          },
+          {
+            "id": 1438,
+            "name": "Air talisman",
+            "count": 1
+          },
+          {
+            "id": 251,
+            "name": "Marrentill",
+            "count": 1
+          },
+          {
+            "id": 786,
+            "name": "Hazelmere's scroll",
+            "count": 1
+          },
+          {
+            "id": 1171,
+            "name": "Wooden shield",
+            "count": 1
+          },
+          {
+            "id": 315,
+            "name": "Shrimps",
+            "count": 13
+          },
+          {
+            "id": 319,
+            "name": "Anchovies",
+            "count": 4
+          },
+          {
+            "id": 303,
+            "name": "Small fishing net",
+            "count": 1
+          },
+          {
+            "id": 1203,
+            "name": "Iron dagger",
+            "count": 10
+          },
+          {
+            "id": 1277,
+            "name": "Bronze sword",
+            "count": 1
+          },
+          {
+            "id": 1175,
+            "name": "Iron sq shield",
+            "count": 1
+          },
+          {
+            "id": 882,
+            "name": "Bronze arrow",
+            "count": 2
+          },
+          {
+            "id": 841,
+            "name": "Shortbow",
+            "count": 1
+          },
+          {
+            "id": 1716,
+            "name": "Unblessed symbol",
+            "count": 3
+          },
+          {
+            "id": 1759,
+            "name": "Ball of wool",
+            "count": 3
+          },
+          {
+            "id": 53,
+            "name": "Headless arrow",
+            "count": 110
+          },
+          {
+            "id": 1607,
+            "name": "Sapphire",
+            "count": 2
+          },
+          {
+            "id": 1605,
+            "name": "Emerald",
+            "count": 1
+          },
+          {
+            "id": 1281,
+            "name": "Steel sword",
+            "count": 1
+          },
+          {
+            "id": 1157,
+            "name": "Steel full helm",
+            "count": 1
+          },
+          {
+            "id": 1119,
+            "name": "Steel platebody",
+            "count": 1
+          },
+          {
+            "id": 1069,
+            "name": "Steel platelegs",
+            "count": 1
+          },
+          {
+            "id": 1177,
+            "name": "Steel sq shield",
+            "count": 1
+          },
+          {
+            "id": 946,
+            "name": "Knife",
+            "count": 1
+          },
+          {
+            "id": 1265,
+            "name": "Bronze pickaxe",
+            "count": 1
+          },
+          {
+            "id": 1515,
+            "name": "Yew logs",
+            "count": 1
+          },
+          {
+            "id": 2347,
+            "name": "Hammer",
+            "count": 1
+          },
+          {
+            "id": 1755,
+            "name": "Chisel",
+            "count": 1
+          },
+          {
+            "id": 1351,
+            "name": "Bronze axe",
+            "count": 1
+          },
+          {
+            "id": 590,
+            "name": "Tinderbox",
+            "count": 1
+          },
+          {
+            "id": 995,
+            "name": "Coins",
+            "count": 45
+          },
+          {
+            "id": 556,
+            "name": "Air rune",
+            "count": 6
+          },
+          {
+            "id": 385,
+            "name": "Shark",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "name": "CleoSupply",
+        "capturedAt": "2026-09-06T03:59:41.613Z",
+        "inventoryCapturedAt": "2026-09-06T03:59:41.613Z",
+        "bankCapturedAt": "2026-09-05T03:24:26.214Z",
+        "inventory": [
+          {
+            "id": 1438,
+            "name": "Air talisman",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          },
+          {
+            "id": 1436,
+            "name": "Rune essence",
+            "count": 1
+          }
+        ],
+        "bank": [
+          {
+            "id": 590,
+            "name": "Tinderbox",
+            "count": 1
+          },
+          {
+            "id": 1925,
+            "name": "Bucket",
+            "count": 1
+          },
+          {
+            "id": 1931,
+            "name": "Pot",
+            "count": 1
+          },
+          {
+            "id": 1265,
+            "name": "Bronze pickaxe",
+            "count": 1
+          },
+          {
+            "id": 1205,
+            "name": "Bronze dagger",
+            "count": 1
+          },
+          {
+            "id": 841,
+            "name": "Shortbow",
+            "count": 1
+          },
+          {
+            "id": 882,
+            "name": "Bronze arrow",
+            "count": 25
+          },
+          {
+            "id": 556,
+            "name": "Air rune",
+            "count": 25
+          },
+          {
+            "id": 558,
+            "name": "Mind rune",
+            "count": 15
+          },
+          {
+            "id": 555,
+            "name": "Water rune",
+            "count": 6
+          },
+          {
+            "id": 557,
+            "name": "Earth rune",
+            "count": 4
+          },
+          {
+            "id": 559,
+            "name": "Body rune",
+            "count": 2
+          },
+          {
+            "id": 303,
+            "name": "Small fishing net",
+            "count": 1
+          },
+          {
+            "id": 311,
+            "name": "Harpoon",
+            "count": 2
+          },
+          {
+            "id": 1942,
+            "name": "Potato",
+            "count": 1
+          },
+          {
+            "id": 995,
+            "name": "Coins",
+            "count": 432
+          },
+          {
+            "id": 383,
+            "name": "Raw shark",
+            "count": 256
+          },
+          {
+            "id": 319,
+            "name": "Anchovies",
+            "count": 86
+          },
+          {
+            "id": 367,
+            "name": "Burnt fish",
+            "count": 3
+          },
+          {
+            "id": 361,
+            "name": "Tuna",
+            "count": 20
+          },
+          {
+            "id": 375,
+            "name": "Burnt swordfish",
+            "count": 3
+          },
+          {
+            "id": 373,
+            "name": "Swordfish",
+            "count": 20
+          },
+          {
+            "id": 315,
+            "name": "Shrimps",
+            "count": 144
+          },
+          {
+            "id": 359,
+            "name": "Raw tuna",
+            "count": 15
+          },
+          {
+            "id": 385,
+            "name": "Shark",
+            "count": 244
+          },
+          {
+            "id": 387,
+            "name": "Burnt shark",
+            "count": 38
+          },
+          {
+            "id": 1171,
+            "name": "Wooden shield",
+            "count": 1
+          },
+          {
+            "id": 1277,
+            "name": "Bronze sword",
+            "count": 1
+          },
+          {
+            "id": 52,
+            "name": "Arrow shaft",
+            "count": 30
+          },
+          {
+            "id": 50,
+            "name": "Shortbow",
+            "count": 22
+          },
+          {
+            "id": 54,
+            "name": "Oak shortbow",
+            "count": 366
+          },
+          {
+            "id": 1351,
+            "name": "Bronze axe",
+            "count": 1
+          },
+          {
+            "id": 1353,
+            "name": "Steel axe",
+            "count": 1
+          },
+          {
+            "id": 66,
+            "name": "Yew longbow",
+            "count": 43
+          },
+          {
+            "id": 946,
+            "name": "Knife",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "name": "CleoMiner",
+        "capturedAt": "2026-09-06T03:59:41.812Z",
+        "inventoryCapturedAt": "2026-09-06T03:59:41.812Z",
+        "bankCapturedAt": "2026-09-06T03:58:39.695Z",
+        "inventory": [
+          {
+            "id": 1271,
+            "name": "Adamant pickaxe",
+            "count": 1
+          }
+        ],
+        "bank": [
+          {
+            "id": 1351,
+            "name": "Bronze axe",
+            "count": 1
+          },
+          {
+            "id": 590,
+            "name": "Tinderbox",
+            "count": 1
+          },
+          {
+            "id": 303,
+            "name": "Small fishing net",
+            "count": 1
+          },
+          {
+            "id": 1925,
+            "name": "Bucket",
+            "count": 1
+          },
+          {
+            "id": 1931,
+            "name": "Pot",
+            "count": 1
+          },
+          {
+            "id": 1171,
+            "name": "Wooden shield",
+            "count": 1
+          },
+          {
+            "id": 841,
+            "name": "Shortbow",
+            "count": 1
+          },
+          {
+            "id": 882,
+            "name": "Bronze arrow",
+            "count": 25
+          },
+          {
+            "id": 556,
+            "name": "Air rune",
+            "count": 25
+          },
+          {
+            "id": 558,
+            "name": "Mind rune",
+            "count": 15
+          },
+          {
+            "id": 555,
+            "name": "Water rune",
+            "count": 6
+          },
+          {
+            "id": 557,
+            "name": "Earth rune",
+            "count": 4
+          },
+          {
+            "id": 559,
+            "name": "Body rune",
+            "count": 2
+          },
+          {
+            "id": 436,
+            "name": "Copper ore",
+            "count": 5
+          },
+          {
+            "id": 438,
+            "name": "Tin ore",
+            "count": 4
+          },
+          {
+            "id": 1621,
+            "name": "Uncut emerald",
+            "count": 2
+          },
+          {
+            "id": 1205,
+            "name": "Bronze dagger",
+            "count": 1
+          },
+          {
+            "id": 1173,
+            "name": "Bronze sq shield",
+            "count": 4
+          },
+          {
+            "id": 2347,
+            "name": "Hammer",
+            "count": 2
+          },
+          {
+            "id": 1175,
+            "name": "Iron sq shield",
+            "count": 2
+          },
+          {
+            "id": 1279,
+            "name": "Iron sword",
+            "count": 2
+          },
+          {
+            "id": 440,
+            "name": "Iron ore",
+            "count": 442
+          },
+          {
+            "id": 1153,
+            "name": "Iron full helm",
+            "count": 2
+          },
+          {
+            "id": 2351,
+            "name": "Iron bar",
+            "count": 15
+          },
+          {
+            "id": 1623,
+            "name": "Uncut sapphire",
+            "count": 5
+          },
+          {
+            "id": 1281,
+            "name": "Steel sword",
+            "count": 2
+          },
+          {
+            "id": 1157,
+            "name": "Steel full helm",
+            "count": 2
+          },
+          {
+            "id": 2353,
+            "name": "Steel bar",
+            "count": 1
+          },
+          {
+            "id": 453,
+            "name": "Coal",
+            "count": 528
+          },
+          {
+            "id": 1159,
+            "name": "Mithril full helm",
+            "count": 4
+          },
+          {
+            "id": 1285,
+            "name": "Mithril sword",
+            "count": 2
+          },
+          {
+            "id": 1071,
+            "name": "Mithril platelegs",
+            "count": 1
+          },
+          {
+            "id": 1181,
+            "name": "Mithril sq shield",
+            "count": 1
+          },
+          {
+            "id": 2359,
+            "name": "Mithril bar",
+            "count": 2
+          },
+          {
+            "id": 1619,
+            "name": "Uncut ruby",
+            "count": 2
+          },
+          {
+            "id": 1617,
+            "name": "Uncut diamond",
+            "count": 1
+          },
+          {
+            "id": 1277,
+            "name": "Bronze sword",
+            "count": 1
+          },
+          {
+            "id": 1119,
+            "name": "Steel platebody",
+            "count": 1
+          },
+          {
+            "id": 1069,
+            "name": "Steel platelegs",
+            "count": 1
+          },
+          {
+            "id": 1177,
+            "name": "Steel sq shield",
+            "count": 1
+          },
+          {
+            "id": 1121,
+            "name": "Mithril platebody",
+            "count": 1
+          },
+          {
+            "id": 1357,
+            "name": "Adamant axe",
+            "count": 3
+          },
+          {
+            "id": 1271,
+            "name": "Adamant pickaxe",
+            "count": 2
+          },
+          {
+            "id": 995,
+            "name": "Coins",
+            "count": 21420
+          },
+          {
+            "id": 449,
+            "name": "Adamantite ore",
+            "count": 18
+          },
+          {
+            "id": 1345,
+            "name": "Adamnt warhammer",
+            "count": 2
+          },
+          {
+            "id": 1265,
+            "name": "Bronze pickaxe",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "leaderboard": {
+    "capturedAt": "2026-09-03T06:10:59Z",
+    "leader": {
+      "name": "skylordafk",
+      "overallLevel": 1881,
+      "playTime": "120h 9m",
+      "tieBreak": "lower playtime among equal total levels"
+    },
+    "cleo": {
+      "rank": null,
+      "overallLevel": 77,
+      "status": "awaiting public hiscore save/cache admission"
+    },
+    "targets": {
+      "rankedThreshold": "not yet established",
+      "maximumOverallLevel": 1881,
+      "gapToMaximum": 1804
+    }
+  },
+  "strategy": {
+    "version": 1,
+    "generatedAt": "2026-09-04T01:59:01.855Z",
+    "inputCapturedAt": "2026-09-04T01:58:59.166Z",
+    "objective": "Grow an autonomous Cleo-led specialist faction: every member improves its own profession, produces increasingly valuable goods, and contributes capability, supplies, equipment, or treasury value",
+    "excludedObjectives": [
+      "KOTH",
+      "Wilderness control"
+    ],
+    "cleo": {
+      "totalLevel": 797,
+      "totalXp": 435579,
+      "combatLevel": 60,
+      "hp": 39,
+      "location": [
+        2655,
+        3283
+      ]
+    },
+    "bankKnowledge": {
+      "known": true,
+      "capturedAt": "2026-09-04T01:58:59.166Z",
+      "itemKinds": 31,
+      "workerSnapshots": [
+        {
+          "bot": "CleoSupply",
+          "capturedAt": "2026-09-04T01:58:01.046Z",
+          "itemKinds": 25
+        },
+        {
+          "bot": "CleoMiner",
+          "capturedAt": "2026-09-04T01:58:15.121Z",
+          "itemKinds": 24
+        },
+        {
+          "bot": "CleoSupply-carried",
+          "capturedAt": "2026-09-04T01:58:58.731Z",
+          "itemKinds": 1
+        },
+        {
+          "bot": "CleoMiner-carried",
+          "capturedAt": "2026-09-04T01:58:58.957Z",
+          "itemKinds": 6
+        }
+      ]
+    },
+    "recommendedFocus": {
+      "type": "skill-breadth",
+      "target": "Runecraft",
+      "reason": "Questing explicitly disabled; choose the highest measured safe levels-per-minute candidate",
+      "firstAction": "Apply the four-minute yield and contention gates before committing to a method"
+    },
+    "contention": {
+      "nearbyPlayers": 1,
+      "reachableAttackTargets": 1,
+      "policy": "Scout 30 seconds; relocate once on contention, then rotate skills"
+    },
+    "quests": [],
+    "resources": [
+      {
+        "id": "cooked-food",
+        "label": "Cooked combat food",
+        "itemNames": [
+          "Trout",
+          "Salmon",
+          "Lobster",
+          "Shark",
+          "Swordfish"
+        ],
+        "minimum": 80,
+        "desired": 240,
+        "priority": 105,
+        "owner": "provisioner",
+        "cleoTransforms": null,
+        "quantity": 0,
+        "workerQuantity": 8,
+        "factionQuantity": 8,
+        "transferRequired": true,
+        "bankKnown": true,
+        "deficit": 240,
+        "state": "shortage",
+        "urgency": 236.25
+      },
+      {
+        "id": "raw-food",
+        "label": "Raw fish",
+        "itemNames": [
+          "Raw shrimps",
+          "Raw anchovies",
+          "Raw trout",
+          "Raw salmon",
+          "Raw tuna",
+          "Raw lobster",
+          "Raw bass",
+          "Raw swordfish",
+          "Raw shark"
+        ],
+        "minimum": 80,
+        "desired": 240,
+        "priority": 100,
+        "owner": "provisioner",
+        "cleoTransforms": null,
+        "quantity": 0,
+        "workerQuantity": 500,
+        "factionQuantity": 500,
+        "transferRequired": true,
+        "bankKnown": true,
+        "deficit": 240,
+        "state": "shortage",
+        "urgency": 225
+      },
+      {
+        "id": "rune-essence",
+        "label": "Rune essence",
+        "itemNames": [
+          "Rune essence"
+        ],
+        "minimum": 100,
+        "desired": 500,
+        "priority": 90,
+        "owner": "extractor",
+        "cleoTransforms": "Runecraft",
+        "quantity": 0,
+        "workerQuantity": 0,
+        "factionQuantity": 0,
+        "transferRequired": false,
+        "bankKnown": true,
+        "deficit": 500,
+        "state": "shortage",
+        "urgency": 202.5
+      },
+      {
+        "id": "coins",
+        "label": "Coins",
+        "itemNames": [
+          "Coins"
+        ],
+        "minimum": 1000,
+        "desired": 10000,
+        "priority": 80,
+        "owner": "cleo",
+        "cleoTransforms": null,
+        "quantity": 12,
+        "workerQuantity": 74,
+        "factionQuantity": 86,
+        "transferRequired": true,
+        "bankKnown": true,
+        "deficit": 9988,
+        "state": "shortage",
+        "urgency": 178.94
+      },
+      {
+        "id": "law-runes",
+        "label": "Law runes",
+        "itemNames": [
+          "Law rune"
+        ],
+        "minimum": 12,
+        "desired": 60,
+        "priority": 74,
+        "owner": "cleo",
+        "cleoTransforms": "Magic and travel",
+        "quantity": 0,
+        "workerQuantity": 0,
+        "factionQuantity": 0,
+        "transferRequired": false,
+        "bankKnown": true,
+        "deficit": 60,
+        "state": "shortage",
+        "urgency": 166.5
+      },
+      {
+        "id": "metal-inputs",
+        "label": "Iron and coal",
+        "itemNames": [
+          "Iron ore",
+          "Coal"
+        ],
+        "minimum": 120,
+        "desired": 400,
+        "priority": 72,
+        "owner": "extractor",
+        "cleoTransforms": "Smithing",
+        "quantity": 0,
+        "workerQuantity": 26,
+        "factionQuantity": 26,
+        "transferRequired": true,
+        "bankKnown": true,
+        "deficit": 400,
+        "state": "shortage",
+        "urgency": 162
+      },
+      {
+        "id": "earth-runes",
+        "label": "Earth runes",
+        "itemNames": [
+          "Earth rune"
+        ],
+        "minimum": 6,
+        "desired": 60,
+        "priority": 98,
+        "owner": "cleo",
+        "cleoTransforms": "Runecraft; reserve six for Waterfall Quest",
+        "quantity": 4,
+        "workerQuantity": 8,
+        "factionQuantity": 12,
+        "transferRequired": true,
+        "bankKnown": true,
+        "deficit": 56,
+        "state": "shortage",
+        "urgency": 148.63
+      },
+      {
+        "id": "herblore-inputs",
+        "label": "Herbs and secondaries",
+        "itemNames": [
+          "Herb",
+          "Marrentill",
+          "Guam leaf",
+          "Eye of newt",
+          "Unicorn horn dust",
+          "Red spiders' eggs"
+        ],
+        "minimum": 30,
+        "desired": 120,
+        "priority": 66,
+        "owner": "forager",
+        "cleoTransforms": "Herblore",
+        "quantity": 1,
+        "workerQuantity": 0,
+        "factionQuantity": 1,
+        "transferRequired": false,
+        "bankKnown": true,
+        "deficit": 119,
+        "state": "shortage",
+        "urgency": 145.75
+      },
+      {
+        "id": "nature-runes",
+        "label": "Nature runes",
+        "itemNames": [
+          "Nature rune"
+        ],
+        "minimum": 20,
+        "desired": 120,
+        "priority": 64,
+        "owner": "cleo",
+        "cleoTransforms": "High Alchemy",
+        "quantity": 0,
+        "workerQuantity": 0,
+        "factionQuantity": 0,
+        "transferRequired": false,
+        "bankKnown": true,
+        "deficit": 120,
+        "state": "shortage",
+        "urgency": 144
+      },
+      {
+        "id": "fletching-inputs",
+        "label": "Logs, bowstrings, and feathers",
+        "itemNames": [
+          "Logs",
+          "Oak logs",
+          "Willow logs",
+          "Bow string",
+          "Flax",
+          "Feather"
+        ],
+        "minimum": 120,
+        "desired": 500,
+        "priority": 58,
+        "owner": "forager",
+        "cleoTransforms": "Fletching and Crafting",
+        "quantity": 1,
+        "workerQuantity": 0,
+        "factionQuantity": 1,
+        "transferRequired": false,
+        "bankKnown": true,
+        "deficit": 499,
+        "state": "shortage",
+        "urgency": 129.9
+      },
+      {
+        "id": "water-runes",
+        "label": "Water runes",
+        "itemNames": [
+          "Water rune"
+        ],
+        "minimum": 6,
+        "desired": 60,
+        "priority": 82,
+        "owner": "cleo",
+        "cleoTransforms": "Runecraft and Magic",
+        "quantity": 6,
+        "workerQuantity": 12,
+        "factionQuantity": 18,
+        "transferRequired": false,
+        "bankKnown": true,
+        "deficit": 54,
+        "state": "building",
+        "urgency": 94.3
+      },
+      {
+        "id": "air-runes",
+        "label": "Air runes",
+        "itemNames": [
+          "Air rune"
+        ],
+        "minimum": 6,
+        "desired": 120,
+        "priority": 76,
+        "owner": "cleo",
+        "cleoTransforms": "Runecraft and Magic",
+        "quantity": 51,
+        "workerQuantity": 50,
+        "factionQuantity": 101,
+        "transferRequired": false,
+        "bankKnown": true,
+        "deficit": 69,
+        "state": "building",
+        "urgency": 62.7
+      }
+    ],
+    "faction": {
+      "name": "Cleo faction",
+      "publicWorkerDeployment": "allowed",
+      "deploymentReason": "Noot explicitly authorized CleoSupply plus CleoMiner as a Cleo-led faction. Workers remain bounded to their measured specializations and may use private in-game messages only with authorized faction peers; public chat and outside-player messaging remain disabled.",
+      "roster": [
+        {
+          "name": "Cleo",
+          "role": "Faction leader, progression pioneer, and XP transformer",
+          "status": "deployed",
+          "world": "public-demo"
+        },
+        {
+          "name": "CleoSupply",
+          "role": "Provisioner and Cook",
+          "status": "fishing-cooking-specialist-at-fishing-guild",
+          "world": "public-demo"
+        },
+        {
+          "name": "CleoMiner",
+          "role": "Blacksmith and Quartermaster",
+          "status": "autonomous-production-at-varrock-east",
+          "world": "public-demo"
+        }
+      ],
+      "expansionGate": {
+        "requiredSuccessfulProvisionerHandoffs": 3,
+        "successfulProvisionerHandoffs": 0,
+        "maximumWorkersBeforeReview": 2,
+        "explicitlyAuthorizedWorkers": [
+          "CleoSupply",
+          "CleoMiner"
+        ]
+      }
+    }
+  },
+  "faction": {
+    "name": "Cleo faction",
+    "policy": {
+      "publicWorkerDeployment": "allowed",
+      "questingEnabled": false,
+      "reason": "Noot explicitly authorized CleoSupply plus CleoMiner as a Cleo-led faction. Workers remain bounded to their measured specializations and may use private in-game messages only with authorized faction peers; public chat and outside-player messaging remain disabled.",
+      "clearedAt": "2026-09-03T10:09:04-07:00",
+      "clearedBy": "Noot"
+    },
+    "provisioner": {
+      "version": 1,
+      "checkedAt": "2026-09-05T03:24:14.550Z",
+      "enabled": true,
+      "mode": "ready-for-bounded-worker-turn",
+      "blockers": [],
+      "assignment": {
+        "resource": "vanguard-readiness",
+        "depot": "Falador West",
+        "targetQuantity": 40,
+        "currentKnownQuantity": null,
+        "reserve": {
+          "item": "Shark",
+          "target": 240,
+          "currentKnownQuantity": 0
+        },
+        "transformationOwner": "CleoSupply"
+      },
+      "runtime": {
+        "version": 3,
+        "worker": "CleoSupply",
+        "role": "Advanced Ranged Outfitter",
+        "checkedAt": "2026-09-05T03:24:26.549Z",
+        "assignment": "Build 30 Yew longbow blanks, preserve three faction kits, and publish only verified surplus for treasury liquidation",
+        "progression": {
+          "transition": "500-output oak milestone complete → advanced ranged workshop",
+          "desiredStock": 30,
+          "plan": {
+            "activity": "faction-fletcher",
+            "profile": "yew-longbow",
+            "product": "Yew longbow",
+            "desiredStock": 30,
+            "deficit": 0,
+            "blockers": []
+          },
+          "stockpile": {
+            "profile": "yew-longbow",
+            "phase": "complete",
+            "materialTarget": 0,
+            "bankedMaterials": 0,
+            "materialDeficit": 0,
+            "outputDeficit": 0
+          }
+        },
+        "coordination": {
+          "evidenceAt": "2026-09-05T03:24:26.214Z",
+          "needs": [
+            {
+              "kind": "bowstrings-and-ammunition",
+              "target": 3,
+              "current": 0,
+              "deficit": 3,
+              "state": "open",
+              "basis": "Three named expedition-ready ranged kits require strings and ammunition after blank production"
+            }
+          ],
+          "offers": [
+            {
+              "kind": "advanced-ranged-blanks",
+              "quantity": 43,
+              "reserve": 3,
+              "transferable": 40,
+              "custody": "CleoSupply bank"
+            }
+          ],
+          "reserves": [
+            {
+              "kind": "named-ranged-kits",
+              "target": 3,
+              "custody": "CleoSupply bank"
+            }
+          ],
+          "handoffState": "idle"
+        },
+        "safety": {
+          "initialLifeId": 1,
+          "finalLifeId": 1,
+          "hpFloor": 20,
+          "controllerChatDisabled": true,
+          "allowlistedRoutingOnly": true
+        },
+        "before": {
+          "levels": {
+            "Attack": 40,
+            "Strength": 40,
+            "Defence": 40,
+            "Fletching": 80,
+            "Woodcutting": 92
+          },
+          "xp": {
+            "Fletching": 275975,
+            "Woodcutting": 640000
+          },
+          "hp": 41,
+          "maxHp": 41,
+          "lifeId": 1,
+          "position": [
+            3096,
+            3494
+          ],
+          "inventory": [],
+          "equipment": [
+            {
+              "name": "Iron full helm",
+              "count": 1
+            },
+            {
+              "name": "Iron sword",
+              "count": 1
+            },
+            {
+              "name": "Iron platebody",
+              "count": 1
+            },
+            {
+              "name": "Iron sq shield",
+              "count": 1
+            }
+          ]
+        },
+        "after": {
+          "levels": {
+            "Attack": 40,
+            "Strength": 40,
+            "Defence": 40,
+            "Fletching": 80,
+            "Woodcutting": 92
+          },
+          "xp": {
+            "Fletching": 275975,
+            "Woodcutting": 640000
+          },
+          "hp": 41,
+          "maxHp": 41,
+          "lifeId": 1,
+          "position": [
+            3096,
+            3494
+          ],
+          "inventory": [],
+          "equipment": [
+            {
+              "name": "Iron full helm",
+              "count": 1
+            },
+            {
+              "name": "Iron sword",
+              "count": 1
+            },
+            {
+              "name": "Iron platebody",
+              "count": 1
+            },
+            {
+              "name": "Iron sq shield",
+              "count": 1
+            }
+          ]
+        },
+        "batch": {
+          "durationMs": 1540,
+          "phase": "checkpoint",
+          "actions": 1,
+          "chops": 0,
+          "fletches": 0,
+          "failures": 0,
+          "stopReason": "Faction Fletcher stock target complete"
+        },
+        "evidence": [
+          {
+            "openBank": "Bank opened (interfaceId: 5292)",
+            "at": [
+              3096,
+              3494
+            ],
+            "verified": true
+          }
+        ]
+      }
+    },
+    "extractor": {
+      "runtime": {
+        "version": 2,
+        "worker": "CleoMiner",
+        "role": "Blacksmith",
+        "checkedAt": "2026-09-06T03:44:50.239Z",
+        "assignment": "Priority 1: Adamant/Rune faction tools, then stockpile-first economic Smithing to 99, terminal Rune scimitar loadouts, and Rune platebody cash batches",
+        "safety": {
+          "gameplayControllerChatDisabled": true,
+          "privateFactionMessaging": "allowed",
+          "initialLifeId": 1,
+          "finalLifeId": 1,
+          "recovered": false,
+          "allowlistedRoutingOnly": true,
+          "hpFloor": 8,
+          "stopSentinel": "/home/wiffl/projects/cleo-rs-campaign/campaign-data/STOP"
+        },
+        "progression": {
+          "gate": "production",
+          "survivabilityTarget": {
+            "Attack": 5,
+            "Strength": 5,
+            "Defence": 5,
+            "Hitpoints": 10
+          },
+          "metal": "adamant",
+          "miningPolicy": "Capacity-first stockpiles: stage a bounded food reserve, fill every remaining slot or the exact deficit, and retreat only on observed combat, HP loss, deadline, or route failure",
+          "pickaxePolicy": "Pickaxes are not smithable in authoritative game content: fund and acquire three per tier externally; use the best verified banked tool meanwhile"
+        },
+        "specialistProgression": {
+          "reviewCadence": "review every 20 levels and on each metal, tool, equipment, shop, or alchemy unlock",
+          "reviewBands": {
+            "Mining": 80,
+            "Smithing": 80,
+            "Magic": 0
+          },
+          "activeTier": {
+            "metal": "adamant",
+            "smithing": 70,
+            "completeSetSmithing": 88,
+            "mining": 70,
+            "reviewBand": 80,
+            "inputs": [
+              "Adamantite ore",
+              "Coal"
+            ],
+            "coalPerBar": 6,
+            "smithXpPerBar": 62.5,
+            "purpose": "faction axes, then economic Smithing"
+          },
+          "skillUnlockedTier": {
+            "metal": "adamant",
+            "smithing": 70,
+            "completeSetSmithing": 88,
+            "mining": 70,
+            "reviewBand": 80,
+            "inputs": [
+              "Adamantite ore",
+              "Coal"
+            ],
+            "coalPerBar": 6,
+            "smithXpPerBar": 62.5,
+            "purpose": "faction axes, then economic Smithing"
+          },
+          "nextTier": {
+            "metal": "rune",
+            "smithing": 85,
+            "completeSetSmithing": 99,
+            "mining": 85,
+            "reviewBand": 80,
+            "inputs": [
+              "Runite ore",
+              "Coal"
+            ],
+            "coalPerBar": 8,
+            "smithXpPerBar": 75,
+            "purpose": "faction axes, economic Smithing, then terminal loadouts"
+          },
+          "methodBlocker": null,
+          "transformationCatchupRequired": false,
+          "monetization": "bank-excess",
+          "reservePolicy": "reserve three tier axes and acquired pickaxes; skip Adamant combat kits; at Smithing 99 reserve three 14-bar Rune scimitar loadouts before monetizing Rune platebodies",
+          "smithingCampaign": {
+            "version": 1,
+            "updatedAt": "2026-09-06T03:40:55.729Z",
+            "worker": "CleoMiner",
+            "priority": 1,
+            "objective": "Upgrade faction axes and acquired pickaxes by tier, then batch Smithing for value; at 99 reserve three Rune scimitar loadouts before repeatable Rune platebodies",
+            "authoritative": {
+              "mining": 99,
+              "smithing": 81,
+              "smithingXp": 289740,
+              "bankCapturedAt": "2026-09-06T03:40:55.729Z"
+            },
+            "completedSets": [
+              "steel",
+              "mithril"
+            ],
+            "phase": "bulk-mine",
+            "milestone": {
+              "kind": "smithing-level",
+              "metal": "adamant",
+              "targetLevel": 85
+            },
+            "productionTier": {
+              "metal": "adamant",
+              "smithing": 70,
+              "completeSetSmithing": 88,
+              "mining": 70,
+              "reviewBand": 80,
+              "inputs": [
+                "Adamantite ore",
+                "Coal"
+              ],
+              "coalPerBar": 6,
+              "smithXpPerBar": 62.5,
+              "purpose": "faction axes, then economic Smithing"
+            },
+            "trainingTier": {
+              "metal": "adamant",
+              "smithing": 70,
+              "completeSetSmithing": 88,
+              "mining": 70,
+              "reviewBand": 80,
+              "inputs": [
+                "Adamantite ore",
+                "Coal"
+              ],
+              "coalPerBar": 6,
+              "smithXpPerBar": 62.5,
+              "purpose": "faction axes, then economic Smithing"
+            },
+            "product": {
+              "metal": "adamant",
+              "item": "Adamant chainbody",
+              "level": 81,
+              "bars": 3,
+              "outputAmount": 1,
+              "baseValue": 4800,
+              "highAlchemyValue": 2880
+            },
+            "nextProduct": {
+              "metal": "rune",
+              "item": "Rune dagger",
+              "level": 85,
+              "bars": 1,
+              "outputAmount": 1,
+              "baseValue": 8000,
+              "highAlchemyValue": 4800
+            },
+            "batching": {
+              "strategy": "stockpile-first",
+              "gatherGate": "Bank all primary ore and coal for the current milestone before smelting any of it",
+              "smeltGate": "Smelt the entire milestone bar batch before forging any output"
+            },
+            "blockers": [],
+            "hardBlockers": [],
+            "acquisitionRequirements": {
+              "axes": {
+                "item": "Adamant axe",
+                "required": 3,
+                "completed": 3,
+                "deficit": 0,
+                "forgeable": true,
+                "barsPerItem": 1
+              },
+              "pickaxes": {
+                "item": "Adamant pickaxe",
+                "required": 3,
+                "completed": 3,
+                "deficit": 0,
+                "forgeable": false,
+                "method": "external-acquisition",
+                "reason": "No pickaxe recipe exists in smithing.dbrow"
+              }
+            },
+            "requirements": {
+              "targetXp": 378077,
+              "xpDeficit": 88337,
+              "smeltXpPerBar": 937.5,
+              "forgeXpPerBar": 1562.5,
+              "forgeActions": 12,
+              "forgeBars": 36,
+              "newBars": 36,
+              "expectedXp": 379740,
+              "primaryOre": {
+                "name": "Adamantite ore",
+                "required": 36,
+                "banked": 16,
+                "deficit": 20
+              },
+              "coal": {
+                "required": 216,
+                "banked": 503,
+                "deficit": 0
+              },
+              "bars": {
+                "name": "Adamantite bar",
+                "required": 36,
+                "banked": 0,
+                "deficit": 36
+              },
+              "trainingBars": 36,
+              "totalBars": 36
+            },
+            "completionRule": "Tools come first at Adamant and Rune; skip Adamant faction armour; at 99 reserve three authoritative 14-bar Rune scimitar loadouts, then batch Rune platebodies for cash."
+          }
+        },
+        "coordination": {
+          "evidenceAt": "2026-09-06T03:44:49.934Z",
+          "needs": [
+            {
+              "kind": "cooked-food",
+              "target": 8,
+              "current": 0,
+              "deficit": 8,
+              "state": "open"
+            }
+          ],
+          "offers": [],
+          "reserves": [],
+          "handoffState": "idle"
+        },
+        "batch": {
+          "durationMs": 237538,
+          "phase": "stockpile-adamant-lumbridge-swamp",
+          "actions": 39,
+          "failures": 0,
+          "recovered": false,
+          "combatXpEvents": 0,
+          "foodEaten": 0,
+          "mined": 27,
+          "smelted": 0,
+          "forged": 0,
+          "bankedInputs": 27,
+          "bankedOutputs": 0,
+          "stopReason": "verified safe swamp Adamant stockpile trip banked 27"
+        },
+        "before": {
+          "totalLevel": 237,
+          "totalXp": 2344154,
+          "mining": [
+            99,
+            2049062
+          ],
+          "smithing": [
+            81,
+            289740
+          ],
+          "attack": [
+            16,
+            2200
+          ],
+          "strength": [
+            6,
+            500
+          ],
+          "defence": [
+            7,
+            600
+          ],
+          "hitpoints": [
+            15,
+            2052
+          ],
+          "hp": 15,
+          "maxHp": 15,
+          "lifeId": 1,
+          "zone": "draynor-bank",
+          "position": [
+            3092,
+            3245
+          ],
+          "inventory": [
+            {
+              "name": "Adamant pickaxe",
+              "count": 1
+            }
+          ]
+        },
+        "after": {
+          "totalLevel": 237,
+          "totalXp": 2380154,
+          "mining": [
+            99,
+            2085062
+          ],
+          "smithing": [
+            81,
+            289740
+          ],
+          "attack": [
+            16,
+            2200
+          ],
+          "strength": [
+            6,
+            500
+          ],
+          "defence": [
+            7,
+            600
+          ],
+          "hitpoints": [
+            15,
+            2052
+          ],
+          "hp": 15,
+          "maxHp": 15,
+          "lifeId": 1,
+          "zone": "draynor-bank",
+          "position": [
+            3092,
+            3243
+          ],
+          "inventory": [
+            {
+              "name": "Adamant pickaxe",
+              "count": 1
+            }
+          ]
+        },
+        "evidence": [
+          {
+            "openBank": "Bank opened (interfaceId: 5292)",
+            "verified": true,
+            "at": [
+              3092,
+              3245
+            ]
+          },
+          {
+            "deposit": "^(bronze|iron|steel|mithril|adamant|rune) pickaxe$",
+            "kind": "other",
+            "result": "Deposited Adamant pickaxe x1",
+            "before": 1,
+            "after": 0,
+            "verified": true
+          },
+          {
+            "withdraw": "Adamant pickaxe",
+            "requested": 1,
+            "result": "Withdrew Adamant pickaxe x1",
+            "before": 0,
+            "after": 1,
+            "verified": true
+          },
+          {
+            "walk": [
+              3135,
+              3215,
+              8
+            ],
+            "result": "Arrived",
+            "verified": true,
+            "hp": 15,
+            "at": [
+              3131,
+              3220
+            ]
+          },
+          {
+            "walk": [
+              3190,
+              3180,
+              8
+            ],
+            "result": "Arrived",
+            "verified": true,
+            "hp": 15,
+            "at": [
+              3188,
+              3181
+            ]
+          },
+          {
+            "walk": [
+              3238,
+              3166,
+              5
+            ],
+            "result": "Arrived",
+            "verified": true,
+            "hp": 15,
+            "at": [
+              3236,
+              3164
+            ]
+          },
+          {
+            "stockpileMine": "adamant",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2104,
+              3242,
+              3165
+            ],
+            "result": "Interacted with Rocks adamantite ore",
+            "xp0": 2049062,
+            "xp1": 2049062,
+            "ore0": 0,
+            "ore1": 0,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": false
+          },
+          {
+            "stockpileMine": "adamant",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2105,
+              3243,
+              3164
+            ],
+            "result": "Interacted with Rocks adamantite ore",
+            "xp0": 2049062,
+            "xp1": 2051437,
+            "ore0": 0,
+            "ore1": 1,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "adamant",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2104,
+              3242,
+              3165
+            ],
+            "result": "Interacted with Rocks adamantite ore",
+            "xp0": 2051437,
+            "xp1": 2053812,
+            "ore0": 1,
+            "ore1": 2,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3240,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2053812,
+            "xp1": 2055062,
+            "ore0": 0,
+            "ore1": 1,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3239,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2055062,
+            "xp1": 2056312,
+            "ore0": 1,
+            "ore1": 2,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3238,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2056312,
+            "xp1": 2057562,
+            "ore0": 2,
+            "ore1": 3,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3236,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2057562,
+            "xp1": 2058812,
+            "ore0": 3,
+            "ore1": 4,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3235,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2058812,
+            "xp1": 2060062,
+            "ore0": 4,
+            "ore1": 5,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3234,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2060062,
+            "xp1": 2061312,
+            "ore0": 5,
+            "ore1": 6,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2097,
+              3233,
+              3167
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2061312,
+            "xp1": 2062562,
+            "ore0": 6,
+            "ore1": 7,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3240,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2062562,
+            "xp1": 2063812,
+            "ore0": 7,
+            "ore1": 8,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3238,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2063812,
+            "xp1": 2065062,
+            "ore0": 8,
+            "ore1": 9,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3236,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2065062,
+            "xp1": 2066312,
+            "ore0": 9,
+            "ore1": 10,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3235,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2066312,
+            "xp1": 2067562,
+            "ore0": 10,
+            "ore1": 11,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3234,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2067562,
+            "xp1": 2068812,
+            "ore0": 11,
+            "ore1": 12,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2097,
+              3233,
+              3167
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2068812,
+            "xp1": 2070062,
+            "ore0": 12,
+            "ore1": 13,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3239,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2070062,
+            "xp1": 2071312,
+            "ore0": 13,
+            "ore1": 14,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3240,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2071312,
+            "xp1": 2072562,
+            "ore0": 14,
+            "ore1": 15,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3238,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2072562,
+            "xp1": 2073812,
+            "ore0": 15,
+            "ore1": 16,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3236,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2073812,
+            "xp1": 2075062,
+            "ore0": 16,
+            "ore1": 17,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3235,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2075062,
+            "xp1": 2076312,
+            "ore0": 17,
+            "ore1": 18,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3234,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2076312,
+            "xp1": 2077562,
+            "ore0": 18,
+            "ore1": 19,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2097,
+              3233,
+              3167
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2077562,
+            "xp1": 2078812,
+            "ore0": 19,
+            "ore1": 20,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3239,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2078812,
+            "xp1": 2080062,
+            "ore0": 20,
+            "ore1": 21,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3238,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2080062,
+            "xp1": 2081312,
+            "ore0": 21,
+            "ore1": 22,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3240,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2081312,
+            "xp1": 2082562,
+            "ore0": 22,
+            "ore1": 23,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3236,
+              3166
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2082562,
+            "xp1": 2083812,
+            "ore0": 23,
+            "ore1": 24,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "stockpileMine": "coal",
+            "site": "Lumbridge swamp (non-scorpion)",
+            "target": 27,
+            "rock": [
+              2096,
+              3235,
+              3165
+            ],
+            "result": "Interacted with Rocks coal ore",
+            "xp0": 2083812,
+            "xp1": 2085062,
+            "ore0": 24,
+            "ore1": 25,
+            "hp0": 15,
+            "hp1": 15,
+            "verified": true
+          },
+          {
+            "walk": [
+              3190,
+              3180,
+              8
+            ],
+            "result": "Arrived",
+            "verified": true,
+            "hp": 15,
+            "at": [
+              3190,
+              3180
+            ]
+          },
+          {
+            "walk": [
+              3135,
+              3215,
+              8
+            ],
+            "result": "Arrived",
+            "verified": true,
+            "hp": 15,
+            "at": [
+              3138,
+              3216
+            ]
+          },
+          {
+            "walk": [
+              3092,
+              3243,
+              5
+            ],
+            "result": "Arrived",
+            "verified": true,
+            "hp": 15,
+            "at": [
+              3093,
+              3245
+            ]
+          },
+          {
+            "openBank": "Bank opened (interfaceId: 5292)",
+            "verified": true,
+            "at": [
+              3092,
+              3243
+            ]
+          },
+          {
+            "deposit": "^(?:adamantite ore|coal)$",
+            "kind": "input",
+            "result": "Deposited 27 across Adamantite ore, Coal",
+            "before": 27,
+            "after": 0,
+            "verified": true
+          },
+          {
+            "stockpileBanked": "adamant-and-coal",
+            "site": "Draynor",
+            "gathered": {
+              "adamant": 2,
+              "coal": 25
+            },
+            "target": 27,
+            "verified": true
+          }
+        ]
+      }
+    }
+  },
+  "coordination": {
+    "available": true,
+    "freshness": "FRESH",
+    "updatedAt": "2026-09-06T03:59:38.027Z",
+    "evidenceAgeMs": 4737,
+    "blockers": [],
+    "sharedGoal": {
+      "id": "metal-inputs",
+      "title": "Iron and coal",
+      "status": "STOCKED"
+    },
+    "requests": [
+      {
+        "id": "produce-cooked-food",
+        "from": "Cleo",
+        "to": "CleoSupply",
+        "summary": "Cooked combat food",
+        "status": "UNKNOWN"
+      },
+      {
+        "id": "produce-earth-runes",
+        "from": "Cleo",
+        "to": "Cleo",
+        "summary": "Earth runes",
+        "status": "UNKNOWN"
+      },
+      {
+        "id": "produce-rune-essence",
+        "from": "Cleo",
+        "to": "CleoMiner",
+        "summary": "Rune essence × 500",
+        "status": "OPEN"
+      }
+    ],
+    "handoffs": [
+      {
+        "id": "cleo-steel-axe-002",
+        "from": "CleoSupply",
+        "to": "Cleo",
+        "summary": "1 Steel axe",
+        "status": "VERIFIED",
+        "verifiedAt": "2026-09-05T05:00:42.319Z"
+      },
+      {
+        "id": "miner-to-cleo-mithril-set-001",
+        "from": "CleoMiner",
+        "to": "Cleo",
+        "summary": "1 Mithril sword, 1 Mithril full helm, 1 Mithril platebody, 1 Mithril platelegs, 1 Mithril sq shield",
+        "status": "VERIFIED",
+        "verifiedAt": "2026-09-05T01:45:37.817Z"
+      },
+      {
+        "id": "miner-to-cleo-steel-set-001",
+        "from": "CleoMiner",
+        "to": "Cleo",
+        "summary": "1 Steel sword, 1 Steel full helm, 1 Steel platebody, 1 Steel platelegs, 1 Steel sq shield",
+        "status": "VERIFIED",
+        "verifiedAt": "2026-09-04T17:01:40.088Z"
+      }
+    ],
+    "members": [
+      {
+        "name": "Cleo",
+        "state": "UNKNOWN",
+        "blockers": [
+          "bank evidence is stale"
+        ],
+        "evidenceAt": "2026-09-05T03:57:04.456Z",
+        "evidenceAgeMs": 86558308
+      },
+      {
+        "name": "CleoSupply",
+        "state": "UNKNOWN",
+        "blockers": [
+          "bank evidence is stale",
+          "runtime evidence is stale"
+        ],
+        "evidenceAt": "2026-09-05T03:24:26.214Z",
+        "evidenceAgeMs": 88516550
+      },
+      {
+        "name": "CleoMiner",
+        "state": "READY",
+        "blockers": [],
+        "evidenceAt": "2026-09-06T03:44:50.239Z",
+        "evidenceAgeMs": 892525
+      }
+    ],
+    "loadouts": {
+      "musterId": "first-muster-001",
+      "evidenceAt": "2026-09-04T04:31:04.285Z",
+      "evidenceAgeMs": 170918479,
+      "freshness": "STALE",
+      "members": [
+        {
+          "name": "Cleo",
+          "targetTier": "iron",
+          "ready": false,
+          "food": {
+            "item": "Shark",
+            "count": 4
+          },
+          "slots": [
+            {
+              "slot": "weapon",
+              "targetTier": "iron",
+              "status": "INTERIM",
+              "item": "Bronze sword",
+              "custody": "equipped"
+            },
+            {
+              "slot": "helmet",
+              "targetTier": "iron",
+              "status": "MISSING",
+              "item": null,
+              "custody": null
+            },
+            {
+              "slot": "body",
+              "targetTier": "iron",
+              "status": "MISSING",
+              "item": null,
+              "custody": null
+            },
+            {
+              "slot": "legs",
+              "targetTier": "iron",
+              "status": "MISSING",
+              "item": null,
+              "custody": null
+            },
+            {
+              "slot": "shield",
+              "targetTier": "iron",
+              "status": "READY",
+              "item": "Iron sq shield",
+              "custody": "equipped"
+            }
+          ],
+          "blockers": [
+            "weapon is interim",
+            "helmet is missing",
+            "body is missing",
+            "legs is missing"
+          ]
+        },
+        {
+          "name": "CleoSupply",
+          "targetTier": "iron",
+          "ready": false,
+          "food": {
+            "item": "Shark",
+            "count": 1
+          },
+          "slots": [
+            {
+              "slot": "weapon",
+              "targetTier": "iron",
+              "status": "INTERIM",
+              "item": "Bronze sword",
+              "custody": "equipped"
+            },
+            {
+              "slot": "helmet",
+              "targetTier": "iron",
+              "status": "MISSING",
+              "item": null,
+              "custody": null
+            },
+            {
+              "slot": "body",
+              "targetTier": "iron",
+              "status": "MISSING",
+              "item": null,
+              "custody": null
+            },
+            {
+              "slot": "legs",
+              "targetTier": "iron",
+              "status": "MISSING",
+              "item": null,
+              "custody": null
+            },
+            {
+              "slot": "shield",
+              "targetTier": "iron",
+              "status": "READY",
+              "item": "Iron sq shield",
+              "custody": "equipped"
+            }
+          ],
+          "blockers": [
+            "weapon is interim",
+            "helmet is missing",
+            "body is missing",
+            "legs is missing"
+          ]
+        },
+        {
+          "name": "CleoMiner",
+          "targetTier": "iron",
+          "ready": false,
+          "food": {
+            "item": "Shark",
+            "count": 1
+          },
+          "slots": [
+            {
+              "slot": "weapon",
+              "targetTier": "iron",
+              "status": "INTERIM",
+              "item": "Bronze sword",
+              "custody": "equipped"
+            },
+            {
+              "slot": "helmet",
+              "targetTier": "iron",
+              "status": "MISSING",
+              "item": null,
+              "custody": null
+            },
+            {
+              "slot": "body",
+              "targetTier": "iron",
+              "status": "MISSING",
+              "item": null,
+              "custody": null
+            },
+            {
+              "slot": "legs",
+              "targetTier": "iron",
+              "status": "MISSING",
+              "item": null,
+              "custody": null
+            },
+            {
+              "slot": "shield",
+              "targetTier": "iron",
+              "status": "READY",
+              "item": "Iron sq shield",
+              "custody": "equipped"
+            }
+          ],
+          "blockers": [
+            "weapon is interim",
+            "helmet is missing",
+            "body is missing",
+            "legs is missing"
+          ]
+        }
+      ]
+    },
+    "mission": {
+      "id": "falador-workshop-survey-002",
+      "kind": "shared-activity",
+      "title": "Falador workshop survey",
+      "status": "COMPLETE",
+      "participants": [
+        "Cleo",
+        "CleoSupply",
+        "CleoMiner"
+      ],
+      "blockers": [],
+      "updatedAt": "2026-09-04T05:12:20.887Z",
+      "completedAt": "2026-09-04T05:12:20.887Z",
+      "evidenceVerified": true,
+      "evidenceRefs": [
+        "coordination.json#mission/falador-workshop-survey-002/evidence"
+      ],
+      "destination": "Falador Workshop",
+      "retreat": "Falador West",
+      "assignments": [
+        {
+          "name": "Cleo",
+          "role": "route-observer"
+        },
+        {
+          "name": "CleoSupply",
+          "role": "provisions-auditor"
+        },
+        {
+          "name": "CleoMiner",
+          "role": "workshop-inspector"
+        }
+      ]
+    }
+  }
+}
